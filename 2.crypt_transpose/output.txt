@@ -1,0 +1,75 @@
+Try to decrypt "ufdvm pt r gjck ery oc rofcf o kpfr"
+ufdvm pt r gjck ery oc rofcf o kpfr // X=  36  Y= 1
+udmp  jkeyo oc  prfv trgc r crffokf // X=  18  Y= 2
+uvprj ycof ffmt ce  f krd  gkrorcop // X=  12  Y= 3
+um jeoo pf rcrcfofdp ky c rvtg  rfk // X=  9  Y= 4
+u   of fpgecckdtjr fpv cyr fmrk oor // X=  8  Y= 5
+upjyo ftc fkd kocpvr cffm e  r grro // X=  6  Y= 6
+utkc f   odrer v rokmgyfp j cfpcofr // X=  6  Y= 7
+u eopfrrffd ycrvg fmjo  ccopk  t rk // X=  5  Y= 8
+uryff   dgoovjc mc k krpp oftefr rc // X=  4  Y= 9
+u o fgckdj pvcrfmkor  fpectrf y r o // X=  4  Y= 10
+ug ffjrrdcovkfm c efpr tyo   rok cp // X=  4  Y= 11
+ujofcfdkcv fme  ropy t k oprcf  rgr // X=  3  Y= 12
+uccfkfd  veomr  ykp ptof crr  rgojf // X=  3  Y= 13
+uk f ode vrkmyp  fportc  rr ogfjccf // X=  3  Y= 14
+u  fekdrpvyfm r opct  rro fgcjfc ko // X=  3  Y= 15
+uepfrfdyrv mo cp tr orf cgfj cok  k // X=  3  Y= 16
+urrfyd vomc  prto frc fg joc kk pef // X=  3  Y= 17
+uyf dovcm  rpotf crf  goj ckkp ferr // X=  2  Y= 18
+u fodcv mr opftc fr  og jkcpkf rery // X=  2  Y= 19
+uofcd vrmo fpctf  ro  gkjpcfkr ery  // X=  2  Y= 20
+ucf drvomf cpft  or  kgpjfcrk ery o // X=  2  Y= 21
+u frdovfmc fp to  rk pgfjrck ery oc // X=  2  Y= 22
+urfodfvcmf  pot  krp fgrjck ery oc  // X=  2  Y= 23
+uoffdcvfm  op tk prf rgjck ery oc r // X=  2  Y= 24
+uffcdfv mo  pktp frr gjck ery oc ro // X=  2  Y= 25
+ucffd vom  kpptf rr gjck ery oc rof // X=  2  Y= 26
+uff dov mk ppftr r gjck ery oc rofc // X=  2  Y= 27
+u fod vkmp fprt r gjck ery oc rofcf // X=  2  Y= 28
+uof dkvpmf rpt r gjck ery oc rofcf  // X=  2  Y= 29
+u fkdpvfmr pt r gjck ery oc rofcf o // X=  2  Y= 30
+ukfpdfvrm pt r gjck ery oc rofcf o  // X=  2  Y= 31
+upffdrvm pt r gjck ery oc rofcf o k // X=  2  Y= 32
+uffrdvm pt r gjck ery oc rofcf o kp // X=  2  Y= 33
+urfdvm pt r gjck ery oc rofcf o kpf // X=  2  Y= 34
+
+Try to decrypt "h yaeolvnleeor"
+h yaeolvnleeor // X=  15  Y= 1
+hyelneo aovler // X=  8  Y= 2
+hallo everyone // X=  5  Y= 3
+heno olryleave // X=  4  Y= 4
+hoe leyvoanrel // X=  3  Y= 5
+hlo vrynaleeoe // X=  3  Y= 6
+hv nylaeeeoolr // X=  3  Y= 7
+hn lyeaeeoorlv // X=  2  Y= 8
+hl eyeaoerolvn // X=  2  Y= 9
+he eyoareolvnl // X=  2  Y= 10
+he oyraeolvnle // X=  2  Y= 11
+ho ryaeolvnlee // X=  2  Y= 12
+hr yaeolvnleeo // X=  2  Y= 13
+
+Try to decrypt "i tntl aut ia d pmmseaoi"
+i tntl aut ia d pmmseaoi // X=  25  Y= 1
+itt u adpmeo nlati  msai // X=  13  Y= 2
+in ta ma ta  psotluidmei // X=  9  Y= 3
+ituape lt mat  dmonai si // X=  7  Y= 4
+il  e  ipataamonu mittds // X=  5  Y= 5
+i am a student at polimi // X=  5  Y= 6
+iada u ottpin mtimlas  e // X=  4  Y= 7
+iup tmt mnistael a doa i // X=  4  Y= 8
+itm  stienaat oldi  apum // X=  3  Y= 9
+i e iataon itdl  pamumts // X=  3  Y= 10
+iio ait ndt lp mamuste a // X=  3  Y= 11
+ia  tdn tplm masueta oii // X=  3  Y= 12
+i  dt nptmlm saeuato iia // X=  2  Y= 13
+id  tpnmtmls eaauoti ia  // X=  2  Y= 14
+i  ptmnmtsle aaouit ia d // X=  2  Y= 15
+ip mtmnstela oaiut ia d  // X=  2  Y= 16
+im mtsnetalo iaut ia d p // X=  2  Y= 17
+im stenatoli aut ia d pm // X=  2  Y= 18
+is etanotil aut ia d pmm // X=  2  Y= 19
+ie atonitl aut ia d pmms // X=  2  Y= 20
+ia otintl aut ia d pmmse // X=  2  Y= 21
+io itntl aut ia d pmmsea // X=  2  Y= 22
+ii tntl aut ia d pmmseao // X=  2  Y= 23

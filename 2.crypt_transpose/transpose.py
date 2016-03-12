@@ -4,7 +4,7 @@ def pr(m):
 	sys.stdout.write(m)
 
 #msg = "ufdvm pt r gjck ery oc rofcf o kpfr"
-#msg = 'h yaeolvnleeor'
+#msg = "h yaeolvnleeor"
 msg = sys.argv[1]
 l = len (msg)
 #print (l)
