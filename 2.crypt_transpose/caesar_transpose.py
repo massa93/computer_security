@@ -25,7 +25,7 @@ l = len (msg)
 #print (l)
 
 for my in range(1, l):
-	mx =int( l / my + 1)
+	mx =l // my + 1
 	#print mx
 	#print my
 	tr = ""
@@ -40,6 +40,7 @@ for my in range(1, l):
 				tr = tr + msg[e]
 	pr(tr)
 	print (' // X= ',mx,' Y=',my)
-	for i in range(1, 26):
-		#print ("transl: "+tr)
-		print ("    " + caesar(tr,i)+ " #Caesar "+str(i))
+	if tr.find("  ") == -1:
+		for i in range(1, 26):
+			#print ("transl: "+tr)
+			print ("    " + caesar(tr,i)+ " #Caesar "+str(i))
