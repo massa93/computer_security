@@ -101,31 +101,6 @@ fu fod vkmp fprt r gjck ery oc rofc // X=  2  Y= 27
     ds dmb tikn dnpr p ehai cpw ma pmd #Caesar 24
     et enc ujlo eoqs q fibj dqx nb qne #Caesar 25
  uof dkvpmf rpt r gjck ery oc rofcf // X=  2  Y= 28
-     vpg elwqng squ s hkdl fsz pd spgd #Caesar 1
-     wqh fmxroh trv t ilem gta qe tqhe #Caesar 2
-     xri gnyspi usw u jmfn hub rf urif #Caesar 3
-     ysj hoztqj vtx v kngo ivc sg vsjg #Caesar 4
-     ztk ipaurk wuy w lohp jwd th wtkh #Caesar 5
-     aul jqbvsl xvz x mpiq kxe ui xuli #Caesar 6
-     bvm krcwtm ywa y nqjr lyf vj yvmj #Caesar 7
-     cwn lsdxun zxb z orks mzg wk zwnk #Caesar 8
-     dxo mteyvo ayc a pslt nah xl axol #Caesar 9
-     eyp nufzwp bzd b qtmu obi ym bypm #Caesar 10
-     fzq ovgaxq cae c runv pcj zn czqn #Caesar 11
-     gar pwhbyr dbf d svow qdk ao daro #Caesar 12
-     hbs qxiczs ecg e twpx rel bp ebsp #Caesar 13
-     ict ryjdat fdh f uxqy sfm cq fctq #Caesar 14
-     jdu szkebu gei g vyrz tgn dr gdur #Caesar 15
-     kev talfcv hfj h wzsa uho es hevs #Caesar 16
-     lfw ubmgdw igk i xatb vip ft ifwt #Caesar 17
-     mgx vcnhex jhl j ybuc wjq gu jgxu #Caesar 18
-     nhy wdoify kim k zcvd xkr hv khyv #Caesar 19
-     oiz xepjgz ljn l adwe yls iw lizw #Caesar 20
-     pja yfqkha mko m bexf zmt jx mjax #Caesar 21
-     qkb zgrlib nlp n cfyg anu ky nkby #Caesar 22
-     rlc ahsmjc omq o dgzh bov lz olcz #Caesar 23
-     smd bitnkd pnr p ehai cpw ma pmda #Caesar 24
-     tne cjuole qos q fibj dqx nb qneb #Caesar 25
 ou fkdpvfmr pt r gjck ery oc rofcf  // X=  2  Y= 29
     pv gleqwgns qu s hkdl fsz pd spgdg #Caesar 1
     qw hmfrxhot rv t ilem gta qe tqheh #Caesar 2
@@ -153,31 +128,6 @@ ou fkdpvfmr pt r gjck ery oc rofcf  // X=  2  Y= 29
     ms dibntdkp nr p ehai cpw ma pmdad #Caesar 24
     nt ejcouelq os q fibj dqx nb qnebe #Caesar 25
  ukfpdfvrm pt r gjck ery oc rofcf o // X=  2  Y= 30
-     vlgqegwsn qu s hkdl fsz pd spgdg  #Caesar 1
-     wmhrfhxto rv t ilem gta qe tqheh  #Caesar 2
-     xnisgiyup sw u jmfn hub rf urifi  #Caesar 3
-     yojthjzvq tx v kngo ivc sg vsjgj  #Caesar 4
-     zpkuikawr uy w lohp jwd th wtkhk  #Caesar 5
-     aqlvjlbxs vz x mpiq kxe ui xulil  #Caesar 6
-     brmwkmcyt wa y nqjr lyf vj yvmjm  #Caesar 7
-     csnxlndzu xb z orks mzg wk zwnkn  #Caesar 8
-     dtoymoeav yc a pslt nah xl axolo  #Caesar 9
-     eupznpfbw zd b qtmu obi ym bypmp  #Caesar 10
-     fvqaoqgcx ae c runv pcj zn czqnq  #Caesar 11
-     gwrbprhdy bf d svow qdk ao daror  #Caesar 12
-     hxscqsiez cg e twpx rel bp ebsps  #Caesar 13
-     iytdrtjfa dh f uxqy sfm cq fctqt  #Caesar 14
-     jzuesukgb ei g vyrz tgn dr gduru  #Caesar 15
-     kavftvlhc fj h wzsa uho es hevsv  #Caesar 16
-     lbwguwmid gk i xatb vip ft ifwtw  #Caesar 17
-     mcxhvxnje hl j ybuc wjq gu jgxux  #Caesar 18
-     ndyiwyokf im k zcvd xkr hv khyvy  #Caesar 19
-     oezjxzplg jn l adwe yls iw lizwz  #Caesar 20
-     pfakyaqmh ko m bexf zmt jx mjaxa  #Caesar 21
-     qgblzbrni lp n cfyg anu ky nkbyb  #Caesar 22
-     rhcmacsoj mq o dgzh bov lz olczc  #Caesar 23
-     sidnbdtpk nr p ehai cpw ma pmdad  #Caesar 24
-     tjeoceuql os q fibj dqx nb qnebe  #Caesar 25
 kupffdrvm pt r gjck ery oc rofcf o  // X=  2  Y= 31
     lvqggeswn qu s hkdl fsz pd spgdg p #Caesar 1
     mwrhhftxo rv t ilem gta qe tqheh q #Caesar 2
