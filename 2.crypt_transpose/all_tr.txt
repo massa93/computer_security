@@ -1,4 +1,4 @@
-Reading normally X and Y
+#################################Reading normally X and Y#########################################################################################################
 ufdvm pt r gjck ery oc rofcf o kpfr // X=  36  Y= 1
     vgewn qu s hkdl fsz pd spgdg p lqg #Caesar 1
     whfxo rv t ilem gta qe tqheh q mrh #Caesar 2
@@ -258,7 +258,7 @@ urfdvm pt r gjck ery oc rofcf o kpf // X=  2  Y= 34
     rocasj mq o dgzh bov lz olczc l hm #Caesar 23
     spdbtk nr p ehai cpw ma pmdad m in #Caesar 24
     tqecul os q fibj dqx nb qnebe n jo #Caesar 25
-Reading normally X and rev Y
+##################################################Reading normally X and rev Y###############################################################################################
 ufdvm pt r gjck ery oc rofcf o kpfr // X=  36  Y= 1
     vgewn qu s hkdl fsz pd spgdg p lqg #Caesar 1
     whfxo rv t ilem gta qe tqheh q mrh #Caesar 2
@@ -493,7 +493,7 @@ fpk o fcfor co yre kcjg r tp mvdfur // X=  2  Y= 34
     cmh l czclo zl vob hzgd o qm jsacr #Caesar 23
     dni m dadmp am wpc iahe p rn ktbds #Caesar 24
     eoj n ebenq bn xqd jbif q so lucet #Caesar 25
-Reading rev X and normal Y
+#################################################Reading rev X and normal Y###########################################################################################
 rfpk o fcfor co yre kcjg r tp mvdfu // X=  36  Y= 1
     sgql p gdgps dp zsf ldkh s uq nweg #Caesar 1
     thrm q hehqt eq atg meli t vr oxfh #Caesar 2
@@ -728,7 +728,7 @@ rufdvm pt r gjck ery oc rofcf o kpf // X=  2  Y= 34
     orcasj mq o dgzh bov lz olczc l hm #Caesar 23
     psdbtk nr p ehai cpw ma pmdad m in #Caesar 24
     qtecul os q fibj dqx nb qnebe n jo #Caesar 25
-Reading reversed X and Y
+########################################################Reading reversed X and Y###################################################################################
 rfpk o fcfor co yre kcjg r tp mvdfu // X=  36  Y= 1
     sgql p gdgps dp zsf ldkh s uq nweg #Caesar 1
     thrm q hehqt eq atg meli t vr oxfh #Caesar 2
