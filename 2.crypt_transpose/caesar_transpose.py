@@ -40,7 +40,7 @@ for my in range(1, l):
 				tr = tr + msg[e]
 	pr(tr)
 	print (' // X= ',mx,' Y=',my)
-	if tr.find("  ") == -1:
+	if tr.find("  ") == -1 and tr[0]!=" ":
 		for i in range(1, 26):
 			#print ("transl: "+tr)
 			print ("    " + caesar(tr,i)+ " #Caesar "+str(i))
