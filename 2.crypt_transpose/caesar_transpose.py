@@ -18,7 +18,8 @@ def caesar(m,n):
 		c = c + tmp
 	return c	
 
-msg = "ufdvm pt r gjck ery oc rofcf o kpfr"
+#msg = "ufdvm pt r gjck ery oc rofcf o kpfr"
+msg = "ys vgg asmjaf kdk zw"
 #msg = "h yaeolvnleeor"
 #msg = sys.argv[1]
 l = len (msg)
