@@ -6,7 +6,7 @@ def pr(m):
 def caesar(m,n):
 	#print ("trs: "+m)
 	c = ""
-	for i in range(0, len(m)-1):
+	for i in range(0, len(m)):
 		tmp = m[i]
 		for j in range(0, int(n)):
 			if tmp == "z":
